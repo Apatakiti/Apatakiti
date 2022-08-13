@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
  
-**I'm a Softwaree Engineer🧑‍💻 in Love with my job and with open arm👐 to new opportunities.**
+**I'm a Softwaree Engineer🧑‍💻 in Love with my job and open arm👐 to new opportunities.**
 
 ![jim-carrey-computer-typing](https://user-images.githubusercontent.com/96092850/184507720-046cd910-0555-4e1d-afe1-3b0359463745.gif)
 
