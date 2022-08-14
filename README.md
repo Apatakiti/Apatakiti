@@ -56,7 +56,7 @@ Again, I am Ademola Owoeye😂, currently schooling 📚 at [Microverse](). I am
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademola-coding&show_icons=true&theme=dark)
 
-
+![Ademola-coding's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademola-coding&show_icons=true&theme=dark)
 
 <!-- **This week's coding time stat:**
 [![Ademola's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ademola)](https://github.com/Ademola-coding/github-readme-stats) -->
