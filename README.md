@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 ```
 const Ademola-coding = {
   pronouns: ['he', 'him', '🧑'],
-  lookingFor: 'Front-end developer' || 'Full-stack web developer',
+  lookingFor: 'Front-end web developer' || 'Back-end web developer || Full-Stack web developer',
   technologies: {
-       frameworksLibraries: ['SASS', 'Bootstrap', 'React', 'Node.js', 'Ruby on rails'],
-       databases: ['SQL', 'PHP'],
+       frameworksLibraries: ['React', 'Redux', 'MUI', 'Ruby on rails'],
+       databases: ['postgreSQL', 'MySql'],
        dev/prod/test: ['Webpack', 'Jest'],
        versionControl: ['GIT', 'GitHub']
     }
-  challenge: 'I always want to get better at every programming language I learn.',
+  challenge: 'I always want to know more using programming language I learn to solve more problems.',
   funFacts: ['I love music 🎼 && food 🎂.']
 }
 ```
 
-Again, I am Ademola Owoeye😂, currently schooling 📚 at [Microverse](). I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me.
+Again, I am Ademola Owoeye😂, I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me.
 
 👤 Reach me 📡:
 
