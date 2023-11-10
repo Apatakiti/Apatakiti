@@ -53,6 +53,7 @@ Again, I am Ademola Owoeye😂, I am a Full-Stack Web developer and love writing
 
 # My stats
 [![wakatime](https://wakatime.com/badge/user/f183ad85-12d5-4730-9187-6b4a51688cec.svg)](https://wakatime.com/@f183ad85-12d5-4730-9187-6b4a51688cec) 
+
 ![](https://komarev.com/ghpvc/?username=Ademola-coding&base=1000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademola-coding&show_icons=true&theme=dark)
