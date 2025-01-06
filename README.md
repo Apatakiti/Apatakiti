@@ -25,12 +25,11 @@ Here are some ideas to get you started:
  
 ```
 const Apatakiti = {
-  pronouns: ['he', 'him', '🧑'],
   lookingFor: 'Start-up Software Engineer' || 'Front-end web developer' || 'Back-end web developer || Full-Stack web developer',
   technologies: {
        frameworksLibraries: ['React', 'Redux', 'MUI', 'Ruby on rails'],
-       databases: ['postgreSQL', 'MySql'],
-       dev/prod/test: ['Webpack', 'Jest'],
+       databases: ['postgreSQL', 'MySql', 'Redis'],
+       dev/prod/test: ['Webpack', 'Jest', 'Docker'],
        versionControl: ['GIT', 'GitHub']
     }
   challenge: 'I always want to know more using programming language I learn to solve more problems.',
