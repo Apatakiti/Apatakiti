@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi👋, I'm Ademola!![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323646787933497a31617269386f79744f2f67697068792e676966](https://user-images.githubusercontent.com/96092850/184507516-54b62219-5e42-48cd-8add-b1676e69601b.gif)
 
-<img src="https://user-images.githubusercontent.com/96092850/184507516-54b62219-5e42-48cd-8add-b1676e69601b.gif" width="200" height="200" alt="GIF">
+<img src="https://user-images.githubusercontent.com/96092850/184507516-54b62219-5e42-48cd-8add-b1676e69601b.gif" width="50" height="50" alt="GIF">
 
 **I'm a Softwaree Engineer 🧑‍💻 in Love with my job and open arm👐 to new opportunities.**
 
